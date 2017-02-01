@@ -1,4 +1,4 @@
-#This is a repository of how to use git
+#How to use git
 
 ##Creating from Github
 
