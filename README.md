@@ -15,3 +15,6 @@
 
 
 ##Creating from computer and pushing to git hub
+
+1. Create new repository on Github and do NOT include a readme file
+2. 
