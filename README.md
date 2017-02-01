@@ -10,4 +10,8 @@
 1. Change directory into the repository.
 2. Change or add files.
 3. Type "git add ." : this adds untracked files to staging directory.
-4. Type "git commit -m "<message here>" " : this commits the changes and leaves a message. 
+4. Type "git commit -m "<message here>" " : this commits the changes and leaves a message.
+5. Type "git push" : this will publish the changes on Github
+
+
+##Creating from computer and pushing to git hub
