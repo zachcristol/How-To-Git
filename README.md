@@ -32,5 +32,14 @@ This can just be done by clicking fork on a repository,
 then it will end up as a repository on your account.
 
 ###Branches
-####Making a new branch
+- Create the branch on your local machine and switch in this branch  
+  `git checkout -b [name_of_your_new_branch]`  
+- Push the branch on github  
+  `git push origin [name_of_your_new_branch]`  
+*When you want to commit something in your branch, be sure to be in your branch.
+
+
+- Show all current branches: `git branch`
+- Creating a new branch: `git checkout -b [name_of_your_new_branch]`
+- Push changes from your commit into your branch
 ####Going back to a previous version
