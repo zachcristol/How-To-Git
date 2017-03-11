@@ -17,3 +17,13 @@
 5. Commit all changes by typing "git commit -m"
 6. Create a remote origin by typing "git remote add origin <url goes here>"
 7. Push changes by typing "push origin master"
+
+##Commands
+
+###Adding and committing 
+1. Change directory into the repository.		
+2. Change or add files.		
+3. Type "git add ." : this adds untracked files to staging directory.		
+4. Type "git commit -m "<message here>" " : this commits the changes and leaves a message.  		
+  (Or to do 4 and 5 in the same step, do commit -a -m"")		
+5. Type "git push" : this will publish the changes on Github		
