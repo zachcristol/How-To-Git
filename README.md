@@ -36,6 +36,8 @@ then it will end up as a repository on your account.
   `git checkout -b [name_of_your_new_branch]`  
 - Push the branch on github  
   `git push origin [name_of_your_new_branch]`  
-*When you want to commit something in your branch, be sure to be in your branch.
+*When you want to commit something in your branch, be sure to be in your branch.  
+- You can see all branches created by using  
+  `git branch`  
 
 
