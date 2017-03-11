@@ -4,7 +4,7 @@
 
 
 
-##Creating Repository from Github
+  ##Creating Repository from Github
 
 1. Create a new repository on github and include a readme file
 2. Click on "Clone or download" and copy the url
