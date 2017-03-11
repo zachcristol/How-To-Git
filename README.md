@@ -2,16 +2,13 @@
 
 ##Creating a Repository
 
-
-
-  ##Creating Repository from Github
+###Creating Repository from Github
 
 1. Create a new repository on github and include a readme file
 2. Click on "Clone or download" and copy the url
-3. In terminal type "git clone " then paste in the url
+3. In terminal, in the desired working directory, type "git clone " then paste in the url
 
-
-##Creating Repository from computer and pushing to git hub
+###Creating Repository from computer and pushing to git hub
 
 1. Create new repository on Github and do NOT include a readme file
 2. Change directory to the directory that you want to put on Github
