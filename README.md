@@ -39,7 +39,3 @@ then it will end up as a repository on your account.
 *When you want to commit something in your branch, be sure to be in your branch.
 
 
-- Show all current branches: `git branch`
-- Creating a new branch: `git checkout -b [name_of_your_new_branch]`
-- Push changes from your commit into your branch
-####Going back to a previous version
