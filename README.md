@@ -22,14 +22,14 @@
 
 ###Adding and committing 
 1. Change directory into the repository in terminal.		
-2. Change or add files.		
-3. `git add .` : this adds untracked files to staging directory.		
-4. Type `git commit -m "<message here>" ` : this commits the changes and leaves a message.  		
+2. `git add .` : this adds untracked files to staging directory.		
+3. `git commit -m "<message here>" ` : this commits the changes and leaves a message.  		
   (Or to do 4 and 5 in the same step, do commit -a -m"")		
-5. Type `git push` : this will publish the changes on Github		
+4. `git push` : this will publish the changes on Github		
 
 ###Forking
-This can just be done by clicking fork on a repository then it will end up as a repository on your repository.
+This can just be done by clicking fork on a repository,  
+then it will end up as a repository on your account.
 
 ###Branches
 ####Making a new branch
