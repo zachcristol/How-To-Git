@@ -27,11 +27,11 @@
   (Or to do 4 and 5 in the same step, do commit -a -m"")		
 4. `git push` : this will publish the changes on Github		
 
-###Forking
+### Forking
 This can just be done by clicking fork on a repository,  
 then it will end up as a repository on your account.
 
-###Branches
+### Branches
 - Create the branch on your local machine and switch in this branch  
   `git checkout -b [name_of_your_new_branch]`  
 - Push the branch on github  
